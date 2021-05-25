@@ -1,0 +1,21 @@
+
+
+header{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+section{
+    text-align: center;
+    background-color: white;
+    position: relative;
+    width: 75%;
+}
+
+#DV1, #Dv2, #DV3, #DV4, #DV5, #DV6, #DV7{
+    padding: 10px;
+    text-align: left;
+}
